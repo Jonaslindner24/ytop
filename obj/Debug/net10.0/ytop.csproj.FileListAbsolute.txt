@@ -1,0 +1,15 @@
+/home/jonas/Documents/Programm/Test/C#/ytop/bin/Debug/net10.0/ytop
+/home/jonas/Documents/Programm/Test/C#/ytop/bin/Debug/net10.0/ytop.deps.json
+/home/jonas/Documents/Programm/Test/C#/ytop/bin/Debug/net10.0/ytop.runtimeconfig.json
+/home/jonas/Documents/Programm/Test/C#/ytop/bin/Debug/net10.0/ytop.dll
+/home/jonas/Documents/Programm/Test/C#/ytop/bin/Debug/net10.0/ytop.pdb
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.AssemblyInfoInputs.cache
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.AssemblyInfo.cs
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.csproj.CoreCompileInputs.cache
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.sourcelink.json
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.dll
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/refint/ytop.dll
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.pdb
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.genruntimeconfig.cache
+/home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ref/ytop.dll

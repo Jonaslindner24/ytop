@@ -13,3 +13,18 @@
 /home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.pdb
 /home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ytop.genruntimeconfig.cache
 /home/jonas/Documents/Programm/Test/C#/ytop/obj/Debug/net10.0/ref/ytop.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.GeneratedMSBuildEditorConfig.editorconfig
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.AssemblyInfoInputs.cache
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.AssemblyInfo.cs
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.csproj.CoreCompileInputs.cache
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.sourcelink.json
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/refint/ytop.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.pdb
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/bin/Debug/net10.0/ytop
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/bin/Debug/net10.0/ytop.deps.json
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/bin/Debug/net10.0/ytop.runtimeconfig.json
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/bin/Debug/net10.0/ytop.dll
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/bin/Debug/net10.0/ytop.pdb
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ytop.genruntimeconfig.cache
+/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/Debug/net10.0/ref/ytop.dll

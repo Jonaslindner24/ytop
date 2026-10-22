@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonas/Documents/Programm/Test/C#/ytop/ytop.csproj": {}
+    "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj": {}
   },
   "projects": {
-    "/home/jonas/Documents/Programm/Test/C#/ytop/ytop.csproj": {
+    "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonas/Documents/Programm/Test/C#/ytop/ytop.csproj",
+        "projectUniqueName": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj",
         "projectName": "ytop",
-        "projectPath": "/home/jonas/Documents/Programm/Test/C#/ytop/ytop.csproj",
-        "packagesPath": "/home/jonas/.nuget/packages/",
-        "outputPath": "/home/jonas/Documents/Programm/Test/C#/ytop/obj/",
+        "projectPath": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj",
+        "packagesPath": "/home/lindner/.nuget/packages/",
+        "outputPath": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jonas/.nuget/NuGet/NuGet.Config"
+          "/home/lindner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jonas/.dotnet/sdk/10.0.302/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.113/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

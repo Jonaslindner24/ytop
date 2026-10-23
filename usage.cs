@@ -5,8 +5,7 @@ namespace usage;
 
 class Usage
 {
-    static void main()
-    {
-        
-    }
+    public static Environment.ProcessCpuUsage cpuUsage { get; }
+
+    
 }

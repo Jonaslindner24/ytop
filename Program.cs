@@ -3,7 +3,6 @@ using System.Diagnostics;
 using System.Dynamic;
 using System.IO;
 using System.Numerics;
-using System.Diagnostics;
 using System.Threading;
 using System.Diagnostics.Contracts;
 
@@ -40,12 +39,12 @@ class Program
         {
             if (line.StartsWith("model name"))
             {
-                cpuinfo_parts = line.Split(new[] {":"}, StringSplitOptions.RemoveEmptyEntries);
+                cpuinfo_parts = line.Split(new[] { ":" }, StringSplitOptions.RemoveEmptyEntries);
                 cpuname = cpuinfo_parts[1];
             }
         }
 
-        
+
 
         double memuse_num = memtotal_num - memav_num;
 
@@ -70,7 +69,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("----------- Cpu Info -------------");
         Console.WriteLine($"Model name:{cpuname}");
-        
+
         Console.WriteLine();
         Console.ResetColor();
 

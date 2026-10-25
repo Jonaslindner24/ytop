@@ -20,6 +20,8 @@ class Program
         string cpuname = "";
         double memtotal_num = 0;
         double memav_num = 0;
+        var monitor = new Pfcount();
+        double usage = monitor.GetUsagePercent();
 
         foreach (string line in meminfo)
         {
@@ -69,6 +71,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("----------- Cpu Info -------------");
         Console.WriteLine($"Model name:{cpuname}");
+        Console.WriteLine($"Total usage: {usage:F1}%");
 
         Console.WriteLine();
         Console.ResetColor();

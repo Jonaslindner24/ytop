@@ -14,17 +14,18 @@ namespace ytop;
 
 public class Pfcount
 {
-    private long[] ReadCpuCounters(){
+    private long[] ReadCpuCounters()
+    {
 
-        string line = File.ReadLines("/proc/stat") .First(line => line.StartsWith("cpu", StringComparison.Ordinal));
-        
+        string line = File.ReadLines("/proc/stat").First(line => line.StartsWith("cpu", StringComparison.Ordinal));
+
         return line.Split(' ', StringSplitOptions.RemoveEmptyEntries)
          .Skip(1)
          .Select(value => long.Parse(value, CultureInfo.InvariantCulture))
-         .ToArray(); 
+         .ToArray();
     }
 
-    public double GetUsagePercent (int intervamilliseconds = 500)
+    public double GetUsagePercent(int intervamilliseconds = 500)
     {
         long[] before = ReadCpuCounters();
         Thread.Sleep(intervamilliseconds);

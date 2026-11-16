@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DVp+OkIA7Ng=",
+  "dgSpecHash": "x16KP083S50=",
   "success": true,
-  "projectFilePath": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/lindner/Documents/Schule/Programms/c#/ytop/ytop.csproj",
+  "expectedPackageFiles": [
+    "/home/lindner/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

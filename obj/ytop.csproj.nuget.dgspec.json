@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj": {}
+    "/home/lindner/Documents/Schule/Programms/c#/ytop/ytop.csproj": {}
   },
   "projects": {
-    "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj": {
+    "/home/lindner/Documents/Schule/Programms/c#/ytop/ytop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj",
+        "projectUniqueName": "/home/lindner/Documents/Schule/Programms/c#/ytop/ytop.csproj",
         "projectName": "ytop",
-        "projectPath": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/ytop.csproj",
+        "projectPath": "/home/lindner/Documents/Schule/Programms/c#/ytop/ytop.csproj",
         "packagesPath": "/home/lindner/.nuget/packages/",
-        "outputPath": "/home/lindner/Documents/Schule 2. Klasse/Programms/c#/ytop/ytop/obj/",
+        "outputPath": "/home/lindner/Documents/Schule/Programms/c#/ytop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lindner/.nuget/NuGet/NuGet.Config"
@@ -54,6 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[10.0.14, 10.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

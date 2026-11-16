@@ -21,10 +21,19 @@ class Program
         double memtotal_num = 0;
         double memav_num = 0;
         var monitor = new Pfcount();
+        var graphics = new Getgraphics();
+        string graphicinfo = graphics.getgraphics();
+        string[] graphicsparts = Array.Empty<string>();
         double usage;
 
-        while (true)
+        while(true)
         {
+
+            if (Console.KeyAvailable)
+            {
+                var Key = Console.ReadKey(true);
+                if (Key.Key == ConsoleKey.Spacebar) break;
+            }
 
             meminfo = File.ReadAllLines("/proc/meminfo");
             cpuinfo = File.ReadAllLines("/proc/cpuinfo");
@@ -79,6 +88,9 @@ class Program
             Console.WriteLine("----------- Cpu Info -------------");
             Console.WriteLine($"Model name:{cpuname}");
             Console.WriteLine($"Total usage: {usage:F1}%");
+            Console.WriteLine("----------- GPU Info -------------");
+            Console.WriteLine($"{graphicinfo}");
+
 
             Console.WriteLine();
             Console.ResetColor();
